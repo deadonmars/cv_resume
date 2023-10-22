@@ -1,0 +1,118 @@
+INFO:
+  name: Ricky Donnell Lindsey Jr.
+  title: Data Scientist
+  location: Arlington, VA
+  email: ricky@rickylindsey.tech
+  linkedin:  www.linkedin.com/in/ricky donnell lindsey jr
+  github: github.com/deadonmars 
+  website: rickylindsey.tech
+  clearance: Active DoD SecurityTS/SCI Clearance 
+EDUCATION:
+  - program: Master of Science in Analytics 
+    concentration: Data Science in Business
+    school: Georgia State University, J. Mack Robinson College of Business
+    location: Atlanta, GA
+    resume: TRUE
+  - program: Bachelor of Science in Mathematics
+    concentration: Statistics 	
+    school: Georgia State University, College of Arts and Sciences
+    loction: Atlanta, GA
+    resume: TRUE
+  - program: Bachelor of Science in Physics
+    concentration: Computer Science			
+    school: Georgia State University, College of Arts and Sciences
+    location: Atlanta, GA
+    resume: TRUE
+  - program: Associate of Science in Engineering
+    concentration:
+    school: Georgia State University, Perimeter College			
+    location: Atlanta, GA
+    resume: TRUE
+TECHNICAL SKILLS:
+  Programming Languages: 
+  - C/ C + +
+  - Java
+  - MATLAB
+  - Python
+  - SQL/T-SQL
+  - R
+  Industry Knowledge: 
+  - CRISP-DM
+  - Data Analysis
+  - Data Mining
+  - DevSecOps
+  - Linear and Nonlinear Regression
+  - Machine Learning/Counter Adversarial Machine Learning (CAML)
+  - MapReduce
+  - Statistical Modeling
+  - Predictive Modeling
+  Technologies & Services:
+  - Amazon Web Service (AWS)
+  - Apache Hadoop
+  - Apache Spark (PySpark)
+  - Jupyter Lab
+  - Microsoft Office Suite
+  - Tableau
+  - SAS
+WORK EXPERIENCE:
+  - company: Institute for Defense Analyses, Systems and Analyses Center
+    postion: Research Associate I
+    location: Alexandria, VA
+    start: February 2022
+    end:
+    description: |
+     Perform operational tester and research team member in the Operational Evaluation Division (OED), effort is in support of The Office of the Director, Operational Test & Evaluation (DOTE) and their initiatives. Work in support of the Chief Digital and Artificial Intelligence Office (CDAO).
+    bullets:
+    - Review Test Plans and observe Operational Test for CVN 78
+    - Create effective visualizations for briefing the directors and their deputies.
+    - Design and manage internal database systems to assist division management and division administration.
+    - Full stack development of web applications for internal use 
+    key dates:
+    - 'October 2, 2022- October 23, 2022: Observed operational testing of CVN-78 during pre-employment.'
+    - 'August 11, 2022: Attended Range Commander’s Council (RCC) as a technical advisor to assist Jon Elliot’s, the Chief, Test & Evaluation, Joint Artificiel Intelligence Center, briefing about what is the CDAO and proper test and evaluation of artificial intelligence.'
+    - 'July 26, 2022- July 29, 2022: Attended DOT&E Artificial Intelligence Working Group (AIWG) on Counter Adversarial Machine learning (CAML).'
+    - 'March 15, 2022- March 28, 2022: Observed operational testing of CVN-78 during IOTE.'
+  - company: J. Mack Robinson School of Business- Georgia State University
+    position: Graduate Research Assistant 
+    location: Atlanta, GA
+    start: August 2021
+    end: December 2021
+    description: |
+     Insight Sprint Project: Fall 2021 - Work performed in conjunction with Stand Co. This pro bono sprint project uses text analytics and natural language processing to extract information from text documents ethically scraped from various social media platforms. This research is was performed under the supervision of Dr. Yusen Xian, Ph.D. and Dr. Aaron M. Baird, Ph.D.  
+    bullets:
+    - Designed topic models to better understand text related to addiction.
+    - Creation ofed visualizations to better illustrate relationships in textual data.
+  - company: Georgia State University, Neuroscience Institute
+    postion: Undergraduate Research Assistant
+    location: Atlanta, GA 
+    start: April 2019
+    end: March 2020   
+    description: | 
+     Conduct Computational and Mathematical Neuroscience research under the supervision of Dr. Andrey Shilnikov, Ph.D. The study focuses on reconstructing time series data using nonlinear dynamical systems for nonlinear regression in Python and MatLabMATLAB. The goal is to solve for the optimal initial conditions of the hyperparameters. Methods used to reconstruct time-series data concentrate around implementing various deep learning algorithms, Gradient Descent Methods, Secant Methods, and multiple heuristic optimization methods.
+    bullets:  
+    - Research the application of optimization methods and neural networks on nonlinear dynamical systems
+    - Created visualizations of higher-dimensional parameter space used to illustrate parameter space.
+    key dates:
+    - 'Aug 2019: Presented research poster at Brains and Behavior Summer Research Scholar Poster Symposium'
+  - company: 2017 Crowdsourced Cyber Intelligence Internship
+    position: Team Member
+    location: Online
+    start: January 2017
+    end: December 2017
+    bullets:
+    - Develop practical skills in tradecraft and intelligence operations 
+    - Support emergence of the Private Component of the Private-Public Partnership concerning cyber resilience 
+    - Assess and monitor threats through the TRUESTAR online platform
+    - Provide cyber intelligence and support for the World Championships of Track and Field in London
+COMPETITIONS:
+  - competition: Brainhack ATL 2019, a Neuroimaging Hackathon
+    date: November 2019
+    description: |
+     Awarded First Place as a member of winning team competing in neuroimaging pipeline track. The competition track aimed at modifying shell scripts to optimize run time and production costs. The overall cost evaluation depended on a server deployment price via Amazon Web Services (AWS) (My name is misspelled in the online post) 
+CERTIFICATIONS & TRAINING:
+ - certificate: MORS Certificate in Survey Process, via Military Operations Research Society
+   date: March 2022
+ - certificate: IBM Data Science Professional Certificate, via Coursera.org
+   date: June 2020
+ - certificate: Research Data Services Certification, via Georgia State University
+   date: May 2019
